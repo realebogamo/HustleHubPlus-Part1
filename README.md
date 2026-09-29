@@ -4,7 +4,7 @@
 
 Security was a design requirement from the first commit, not an add-on. This README is the project's complete documentation: architecture, setup, security design, testing, the CI/CD pipeline, logging and the final security review.
 
-> APDS7311 Application Development Security · Portfolio of Evidence (Parts 1-3)
+> APDS7311 Application Development Security · POE (Parts 1-3)
 
 ---
 
