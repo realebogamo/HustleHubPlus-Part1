@@ -6,7 +6,7 @@ const run = async () => {
   if (!config.mongoUri) {
     throw new Error('MONGO_URI must be set');
   }
-
+// Config to log into the database as the admin
   await connectDatabase(config.mongoUri);
 
   const { created, email } = await seedAdmin({
