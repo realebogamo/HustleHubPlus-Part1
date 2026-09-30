@@ -1,5 +1,7 @@
 # HustleHub+ CI/CD pipeline.
 # Any failing test, lint rule, security scan or container check fails the run.
+# CI
+
 name: CI
 
 on:
